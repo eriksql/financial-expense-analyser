@@ -4,13 +4,11 @@
 
 ![Expense Chart](output/expenses_chart.png)
 
-A beginner-friendly Data Engineering project built with Python and Pandas.
-
 ## Overview
 
 This project analyzes personal financial expenses using Python, Pandas, and Matplotlib. It loads expense data from a CSV file, calculates key financial statistics, groups expenses by category, and generates a bar chart to help visualize spending patterns.
 
-### Key Features
+## Key Features
 
 * Calculate total expenses
 * Calculate the average expense
@@ -23,6 +21,15 @@ This project analyzes personal financial expenses using Python, Pandas, and Matp
 - Python
 - Pandas
 - Matplotlib
+
+## Skills Demonstrated
+
+- Python programming
+- Data analysis with Pandas
+- CSV data processing
+- Data visualization using Matplotlib
+- Git and GitHub
+- Basic Data Engineering workflow
 
 ## Project Structure
 
@@ -47,9 +54,9 @@ cd src
 python main.py
 ```
 
-## Features
+## Future Improvements
 
-- Load expense data from CSV
-- Analyze expenses using Pandas
-- Display financial statistics
-- Generate a bar chart
+- Export reports to Excel
+- Add monthly expense analysis
+- Create an interactive dashboard
+- Connect to a SQL database
