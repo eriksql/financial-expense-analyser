@@ -1,5 +1,9 @@
 # Financial Expense Analyzer
 
+## Screenshot
+
+![Expense Chart](output/expenses_chart.png)
+
 A beginner-friendly Data Engineering project built with Python and Pandas.
 
 ## Project Objective
