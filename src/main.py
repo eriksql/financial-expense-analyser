@@ -32,4 +32,6 @@ plt.title("Expenses by Category")
 plt.ylabel("Amount ($)")
 plt.tight_layout()
 
+plt.savefig("../output/expenses_chart.png")
+
 plt.show()
