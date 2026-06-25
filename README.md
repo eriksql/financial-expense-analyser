@@ -34,10 +34,14 @@ This project analyzes personal financial expenses using Python, Pandas, and Matp
 ## Project Structure
 
 ```
+```text
 financial-expense-analyzer
 │
 ├── data
 │   └── expenses.csv
+│
+├── output
+│   └── expenses_chart.png
 │
 ├── src
 │   └── main.py
