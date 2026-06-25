@@ -1,20 +1,22 @@
 # Financial Expense Analyzer
 
-## Screenshot
+## Output
 
 ![Expense Chart](output/expenses_chart.png)
 
 A beginner-friendly Data Engineering project built with Python and Pandas.
 
-## Project Objective
+## Overview
 
-Analyze personal financial expenses and generate useful insights, including:
+This project analyzes personal financial expenses using Python, Pandas, and Matplotlib. It loads expense data from a CSV file, calculates key financial statistics, groups expenses by category, and generates a bar chart to help visualize spending patterns.
 
-- Total expenses
-- Average expense
-- Expenses by category
-- Highest spending category
-- Bar chart visualization
+### Key Features
+
+* Calculate total expenses
+* Calculate the average expense
+* Group expenses by category
+* Identify the highest spending category
+* Generate a bar chart for data visualization
 
 ## Technologies
 
